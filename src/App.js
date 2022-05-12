@@ -15,6 +15,7 @@ function App() {
         </p>
         <p>じゃけぇです</p>
         <p>更新した！！！！！</p>
+        <p>ここ追加しました！！！</p>
 
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           Learn React
